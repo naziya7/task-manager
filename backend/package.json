@@ -1,5 +1,5 @@
 {
-  "name": "taskmanager",
+   "name": "taskmanager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,7 +35,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -54,4 +54,5 @@
     "mongoose": "^7.4.5",
     "nodemon": "^3.0.1"
   }
+}
 }
