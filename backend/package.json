@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "taskmanager",
   "version": "0.1.0",
   "private": true,
@@ -37,7 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -55,6 +53,5 @@
     "jsonwebtoken": "^9.0.1",
     "mongoose": "^7.4.5",
     "nodemon": "^3.0.1"
->>>>>>> 07ea8aa (backend folder added)
   }
 }
